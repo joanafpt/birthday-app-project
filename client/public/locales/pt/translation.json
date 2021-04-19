@@ -1,0 +1,68 @@
+{
+
+ "createRecordForm" : {
+    "name": "Nome",
+    "surname": "Apelido",
+    "country": "Países",
+    "birthday": "Aniversário",
+    "password": "Palavra-passe",
+    "confirmPassword": "Confirmar palavra-passe",
+    "saveButtonLabel": "Guardar",
+    "selectTitle": "Selecione o país"
+ },
+
+"deleteForm": {
+    "title": "Apagar registo",
+    "subtitle": "Marcou para eliminação ",
+    "subtitle2": "Confirme o seu nome, apelido, e palavra-passe para prosseguir.",
+    "name": "Nome",
+    "surname": "Apelido",
+    "password": "Palavra-passe",
+    "deleteButtonLabel": "Apagar",
+    "deletedSuccess": "Registo apagado com sucesso"
+},
+"updateForm": {
+    "title": "Editar registo",
+    "subtitle": "Marcou para edição ",
+    "subtitle2": "Confirme o seu nome, apelido, e palavra-passe para prosseguir.",
+    "firstInstructions": "Por favor, preencha os campos que pretende atualizar com a informação pretendida. Deixe os campos inalterados em branco.",
+    "secondInstructions": "A password é solicitada para validação de identidade e não será alterada aqui.",
+    "name": "Nome",
+    "surname": "Apelido",
+    "country": "País",
+    "birthday": "Aniversário",
+    "password": "Palavra-passe",
+    "editButtonLabel": "Guardar",
+    "updateForm": "Entrada editada com sucesso."
+
+},
+"placeholders":{
+    "placeholderForName": "Ex.: João",
+    "placeholderForSurname": "Ex.: Silva",
+    "placeholderForBirthday": "mm/dd/aaaa",
+    "placeholderForPassword": "*****",
+    "placeholderFoRepeatPassword":  "*****"
+   
+}, "errors": {
+    "noChange":"Não indicou nenhuma alteração.",
+    "noPassword": "Digite a palavra-passe para prosseguir.",
+    "fillAllTheFields": "Por favor, preencha todos os campos.",
+    "somethingWentWrong": "Algo correu mal. Por favor, tente mais tarde."
+
+},
+"table": {
+    "name": "Nome",
+    "country": "País",
+    "birthday": "Aniversário"
+},
+
+"msgToUser": {
+    "error": "Por favor insira a password.",
+    "feedbackEdition": "Entrada editada com sucesso.",
+    "feedbackEditionNoSuccess": "Não foi possível editar a entrada. Por favor, confirme a password."
+
+}
+
+
+
+}

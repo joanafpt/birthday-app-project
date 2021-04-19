@@ -1,0 +1,41 @@
+.button-container {
+  padding-top: 5vh;
+  padding-bottom: 2vh;
+  padding-right: 0vh;
+}
+
+#save-button {
+  float: right;
+  border-radius: 0px;
+  padding-left: 2.2vh;
+  padding-right: 2.2vh;
+  background-color: transparent;
+  border: 2px solid#1e90ba;
+  color: #1e90ba;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#delete-button {
+  float: right;
+  border-radius: 0px;
+  padding-left: 2.2vh;
+  padding-right: 2.2vh;
+  background-color: transparent;
+  border: 2px solid#1e90ba;
+  color: #1e90ba;
+  font-size: 0.8rem;
+  font-weight: bold;
+}
+
+#edit-button {
+  float: right;
+  border-radius: 0px;
+  padding-left: 2.2vh;
+  padding-right: 2.2vh;
+  background-color: transparent;
+  border: 2px solid#1e90ba;
+  color: #1e90ba;
+  font-size: 0.8rem;
+  font-weight: bold;
+}

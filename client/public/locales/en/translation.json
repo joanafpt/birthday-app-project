@@ -1,0 +1,68 @@
+{
+  
+     "createRecordForm" : {
+        "name": "Name",
+        "surname": "Surname",
+        "country": "Countries",
+        "birthday": "Birthday",
+        "password": "Password",
+        "confirmPassword": "Confirm password",
+        "saveButtonLabel": "Save",
+        "selectTitle": "Select a country"
+     },
+    
+    "deleteForm": {
+        "title": "Delete your entry ",
+        "subtitle": "You marked for deletion ",
+        "subtitle2": "Confirm your name, surname, and password to proceed.",
+        "name": "Your name",
+        "surname": "Your surname",
+        "password": "Your password",
+        "deleteButtonLabel": "Delete",
+        "deletedSuccess": "You successfully deleted this entry."
+    },
+    "updateForm": {
+        "title": "Update your entry",
+        "subtitle": "You marked for edition ",
+        "firstInstructions": "Please fill the fields you wish to update with the desired information. Leave the unchanging fields blank.",
+        "secondInstructions": "Your password is required to validate your identity, and will not be changed here.",
+        "name": "Name",
+        "surname": "Surname",
+        "country": "Country",
+        "birthday": "Birthday",
+        "password": "Password",
+        "editButtonLabel": "Save",
+        "updateForm": "You successfully edited this entry"
+    
+    },
+    "placeholders":{
+        "placeholderForName": "E.g.: John",
+        "placeholderForSurname": "E.g.: Smith",
+        "placeholderForBirthday": "mm/dd/yyyy",
+        "placeholderForPassword": "*****",
+        "placeholderFoRepeatPassword": "*****"
+       
+    },
+    "errors": {
+        "noChange":"You did not provide any change.",
+        "noPassword": "You must provide password to validate changes.",
+        "fillAllTheFields": "Please fill all the fields.",
+        "somethingWentWrong": "Something went wrong. Please try again later."
+
+    },
+   
+    "table": {
+        "name": "Name",
+        "country": "Country",
+        "birthday": "Birthday"
+    },
+    "msgToUser": {
+        "error": "Please insert your password.",
+        "feedbackEdition": "Entry successfully edited.",
+        "feedbackEditionNoSuccess": "Entry not edited. Please confirm password."
+    
+    }
+    
+    
+    
+    }

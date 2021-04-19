@@ -1,0 +1,25 @@
+.around-table {
+  height: 30vh;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  scrollbar-color: white white; /*firefox*/
+  scrollbar-width: thin; /*firefox*/
+  border: 2px solid #0077b3;
+}
+
+.list-item {
+  cursor: pointer;
+}
+::-webkit-scrollbar {
+  width: 0.5vw;
+}
+
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 6px transparent;
+  border-radius: 1vw;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 1.5vh;
+  -webkit-box-shadow: inset 0 0 6px transparent;
+}

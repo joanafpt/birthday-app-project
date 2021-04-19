@@ -1,0 +1,9 @@
+.spinner-border {
+  display: flex;
+  margin: auto;
+  background-color: transparent;
+}
+.spinner-container {
+  background-color: transparent;
+  height: 30vh;
+}
