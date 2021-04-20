@@ -15,4 +15,4 @@ Portuguese and English versions available
 
 ##### Future improvements:
 * Develop a version using Typescript (currently already in development)
-* Implement socket sollution to allow real-time updates to all users
+* Implement socket solution to allow real-time updates to all users
